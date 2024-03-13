@@ -13,7 +13,7 @@ namespace smis_vss.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Sssssg", "Sssssg"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
