@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smis-vss", "smis-vss\smis-vss.csproj", "{62046F5B-7A8A-4097-A63F-E02E51F2DB83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62046F5B-7A8A-4097-A63F-E02E51F2DB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62046F5B-7A8A-4097-A63F-E02E51F2DB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62046F5B-7A8A-4097-A63F-E02E51F2DB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62046F5B-7A8A-4097-A63F-E02E51F2DB83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4030E86-FFBC-4E3C-8F98-9F7BC2ECF6AF}
+	EndGlobalSection
+EndGlobal
